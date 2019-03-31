@@ -1,0 +1,10 @@
+﻿  Collision.cpp
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amina\desktop\ball bounce\cgp-labs\src\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\collision.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GPGame_Template_VS2017_x86.cpp
+  Generating Code...
+  GPGame_Template_VS2017_x86.vcxproj -> C:\Users\Amina\Desktop\Ball bounce\CGP-Labs\src\GPGameTemplate-master\GPGame_Template_VS2017_x86\Debug\GPGame_Template_VS2017_x86.exe
